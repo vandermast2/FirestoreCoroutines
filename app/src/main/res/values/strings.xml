@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_anoucement">Вы точно хотите удалить объявление?</string>
+    <string name="yes_btn">Да</string>
+    <string name="no_btn">Нет</string>
+    <string name="input_title">Введите заголовок</string>
+    <string name="title">Заголовок</string>
+    <string name="annoucement">Объявление</string>
+    <string name="input_text">Введите текст своего объявления</string>
+    <string name="price">Цена</string>
+    <string name="price_grn">Введите стоимость в грн</string>
+    <string name="author">Автор</string>
+    <string name="author_mess">Автор сообщения</string>
+    <string name="city">Город</string>
+    <string name="city_hint">Введите город в котором находитесь</string>
+    <string name="tel">Телефон</string>
+    <string name="tel_hint">Номер Вашего телефона</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="price_">Цена</string>
+    <string name="currencies">грн.</string>
+    <string name="add_new">Add New</string>
+</resources>

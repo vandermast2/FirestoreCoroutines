@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970810994840",
+    "firebase_url": "https://firestore-45ee0.firebaseio.com",
+    "project_id": "firestore-45ee0",
+    "storage_bucket": "firestore-45ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970810994840:android:fbec2276a09233dc",
+        "android_client_info": {
+          "package_name": "com.breez.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970810994840-80o1ro3vfltpih9bcmsebv5h52f1bgdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.breez.firestore",
+            "certificate_hash": "5223d88c965a6b2958d7aa262e8ff2e68fc4beab"
+          }
+        },
+        {
+          "client_id": "970810994840-rvbki93i116bt031cvhcr6dpl8cotino.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrb0lEVKIebjxJ4-yw-Aa1l9Y7oa8tz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970810994840-rvbki93i116bt031cvhcr6dpl8cotino.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
